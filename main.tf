@@ -14,8 +14,7 @@ terraform {
     organization = "studyforschool"
 
     workspaces {
-      name = "learn-terraform-github-actions5
-"
+      name = "learn-terraform-github-actions5"
     }
   }
 
